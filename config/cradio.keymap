@@ -84,7 +84,7 @@
 		bindings = <
 		&kp EXCL  &kp AT &kp HASH  &kp DLLR  &kp PRCT    			&kp CARET  &kp AMPS &kp STAR &kp LPAR &kp RPAR 
 		&kp CLCK  &kp DOT  &kp GRAVE  &kp COLN  &kp SCLN 			&kp MINUS &kp EQUAL  &kp LBKT  &kp RBKT   &kp BSLH
-		&kp DEL  &bt BT_SEL 0 &bt BT_SEL 1 &bt BT_CLR   &kp LCTL    		&kp UNDER &kp LEFT &kp DOWN &kp UP  &kp RIGHT
+		&kp DEL  &bt BT_SEL 0 &bt BT_SEL 1 &bt BT_CLR   &kp LCTL    		&kp UNDER &kp LEFT  &kp LBRC &kp RBRC  &kp RPAR
 					  &mo 3 &kp ENTER  				&kp RALT  &mo 2 
 		>;
 		};	
